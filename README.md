@@ -11,7 +11,7 @@ examples, and tackles selected problems.
 | Chapter | Topic                          | Status         |
 |---------|--------------------------------|----------------|
 | 5       | Relativity                     | ✅ In progress  |
-| 6       | Photons and Matter Waves       | 🔜 Coming soon |
+| 6       | Photons and Matter Waves       | ✅ In progress  |
 | 7       | Quantum Mechanics              | 🔜 Coming soon |
 | 8       | Atomic Structure               | 🔜 Coming soon |
 | 9       | Condensed Matter Physics       | 🔜 Coming soon |
